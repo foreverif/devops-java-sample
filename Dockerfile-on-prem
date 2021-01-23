@@ -1,4 +1,4 @@
-FROM harbor.devops.kubesphere.local:30280/library/java:openjdk-8-jre-alpine
+FROM 10.2.23.197:5000/library/java:openjdk-8-jre-alpine
 
 WORKDIR /home
 
